@@ -1,6 +1,6 @@
 [book]
 title = "Easy Node | Validator Toolbox Manual"
-author = "Easy Node"
+authors = ["Easy Node"]
 description = "Easy Node's User Manual for validatortoolbox Harmony ONE Validator Installer & Management Application"
 language = "en"
 multilingual = false
